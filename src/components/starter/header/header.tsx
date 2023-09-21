@@ -14,26 +14,30 @@ export default component$(() => {
         <ul>
           <li>
             <a
-              href="https://qwik.builder.io/docs/components/overview/"
-              target="_blank"
+              href="/"
             >
-              Docs
+              HOME
             </a>
           </li>
           <li>
             <a
-              href="https://qwik.builder.io/examples/introduction/hello-world/"
-              target="_blank"
+              href="/about"
             >
-              Examples
+              ABOUT
             </a>
           </li>
           <li>
             <a
-              href="https://qwik.builder.io/tutorial/welcome/overview/"
-              target="_blank"
+              href="/contact/"
             >
-              Tutorials
+              CONTACT
+            </a>
+          </li>
+          <li>
+            <a
+              href="/news/"
+            >
+              NEWS
             </a>
           </li>
         </ul>
